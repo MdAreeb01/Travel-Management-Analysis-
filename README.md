@@ -16,7 +16,7 @@ The dashboard was built using Microsoft Power BI and visualizes data related to:
 ## 📁 Files Included
 
 - `Travel Management Project.pbix` – Main Power BI dashboard file
-- `Presentation.pptx` – Project presentation summarizing key insights
+- `Travel_Management_Project_PPT.pptx` – Project presentation summarizing key insights
 
 ## 🛠 Features
 
